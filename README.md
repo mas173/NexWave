@@ -1,6 +1,6 @@
 # NexWave
 
-NexWave is a decentralized offline communication platform designed for disaster and emergency situations where traditional communication infrastructure becomes unavailable.
+NexWave is a decentralized offline communication platform designed for Android devices during disaster and emergency situations where traditional communication infrastructure becomes unavailable.
 
 Using Bluetooth Low Energy (BLE) mesh networking, devices can automatically discover nearby users, establish direct peer-to-peer connections, and relay messages across multiple devices without requiring internet, WiFi, or mobile networks.
 
@@ -9,6 +9,13 @@ The goal of NexWave is to provide reliable emergency communication during:
 - internet shutdowns
 - remote area emergencies
 - network failures
+
+---
+
+## Platform
+
+- Android Application
+- Built using React Native and Expo
 
 ---
 
